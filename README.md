@@ -19,14 +19,15 @@ This will be your shared class repo! Guides, in-class labs and code samples, and
 
 ### Course Dates and Holidays
 
-- Course duration: September 25th - December 21st
+- Course duration: January 22th - April 17th
 - Holidays:
-  - November 10th
-  - November 22nd - 24th
+  - February 19th
+  - March 29th
+  - April 1st
 
 ### Link to Zoom Room
 
-[Link to join the Zoom Room](https://generalassembly.zoom.us/j/96577718284?pwd=UGdlZk5oQ3JId2pCdHZ6VjRlVEhXUT09)
+[Link to join the Zoom Room](https://generalassembly.zoom.us/j/96787029881?pwd=Q3ZicVFBc3MxL2wwbmxGK2hhcE1MZz09)
 
 ### Course Curriculum
 
