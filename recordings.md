@@ -31,3 +31,9 @@
 <td>e!z+*8q5</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/3qimKoeH4ACrDi01ySrVZT0ZFSQXETRkENOeLNXTmVMdf4Nbo897-onLOc_iAvYz.jNV0e-c_q491gj6n">Intro to the DOM</a></td>
 </tr>
+
+<tr>
+<td>Jan 26th</td>
+<td>ci0%m!nB</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/Kurzp247A4PFJQlD5mM1jh8AMyZBQc8cSaLJs_NqcUPLycTz7DDmAfN0AvHB2DQK.09vPqRsYh_hAcMmo">Building Connect Four</a></td>
+</tr>
