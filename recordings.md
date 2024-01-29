@@ -37,3 +37,9 @@
 <td>ci0%m!nB</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/Kurzp247A4PFJQlD5mM1jh8AMyZBQc8cSaLJs_NqcUPLycTz7DDmAfN0AvHB2DQK.09vPqRsYh_hAcMmo">Building Connect Four</a></td>
 </tr>
+
+<tr>
+<td>Jan 29th</td>
+<td>G.WTm328</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/TzLwjd7Cia74nDochnPGoXSFUUhFdP0YfeAYDN-UgnGiAS-W2FezTyOWPMhnvsZm.q7ZIGzckkfRjkIxW">CSS Flexbox and Grid</a></td>
+</tr>
