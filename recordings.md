@@ -43,3 +43,9 @@
 <td>G.WTm328</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/TzLwjd7Cia74nDochnPGoXSFUUhFdP0YfeAYDN-UgnGiAS-W2FezTyOWPMhnvsZm.q7ZIGzckkfRjkIxW">CSS Flexbox and Grid</a></td>
 </tr>
+
+<tr>
+<td>Jan 30th</td>
+<td>n87*1ELt</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/bbSYaE0Hy_C6GXL765sOQdQOIumy3BFIDIyROZjohBFpNM66L-W162nZzOhfT287.xMSd0r4drcvM0mXb">Project 1 Intro / Intro to Git / Arrow Functions</a></td>
+</tr>
