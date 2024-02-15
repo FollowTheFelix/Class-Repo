@@ -55,3 +55,21 @@
 <td>YI$6yK!d</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/-O-kS93y3zWBAzHskZWTqX8BpHUKrut7nbxICd4B0Wnv8zXuXOFqqwIXq34hSKRh.SKNwEY9AO_rRclYz">Array Iterator Methods</a></td>
 </tr>
+
+<tr>
+<td>Feb 12th</td>
+<td>Ne%@i7ty</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/8ir0lb3IdturLfxaPoBfRIBsSel2xlEqUgXgpIUEeZtUUo1LwIuTu2LIBk6DWABZ.-engUhu2ESutALx4">Intro to Fullstack</a></td>
+</tr>
+
+<tr>
+<td>Feb 13th</td>
+<td>*3fJ0r.R</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/XsoNhWDeuxc5f5WIGZGVVpkPGzDipCp4qeoSsihe8GFCu1LkgZyBINVmgegwdxRw.OwGbdVLGxa9Y-3LG">Intro to Express</a></td>
+</tr>
+
+<tr>
+<td>Feb 14th</td>
+<td>b4UxM1&=</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/gqzMHn0ewpMlm6lRLGwVie1IyPkHAl66ksrceo1r3sWeRIaewY88STnlzCoz0ws.F-HNQUqI0Xbu4IDM">Routers and Controllers</a></td>
+</tr>
