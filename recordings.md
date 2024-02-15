@@ -71,5 +71,5 @@
 <tr>
 <td>Feb 14th</td>
 <td>b4UxM1&=</td>
-<td><a href="https://generalassembly.zoom.us/rec/share/gqzMHn0ewpMlm6lRLGwVie1IyPkHAl66ksrceo1r3sWeRIaewY88STnlzCoz0ws.F-HNQUqI0Xbu4IDM">Routers and Controllers</a></td>
+<td><a href="https://generalassembly.zoom.us/rec/share/gqzMHn0ewpMlm6lRLGwVie1IyPkHAl66ksrceo1r3sWeRIaewY88STnlzCoz0ws.F-HNQUqI0Xbu4IDM">Routes and Controllers</a></td>
 </tr>
