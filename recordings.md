@@ -73,3 +73,9 @@
 <td>b4UxM1&=</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/gqzMHn0ewpMlm6lRLGwVie1IyPkHAl66ksrceo1r3sWeRIaewY88STnlzCoz0ws.F-HNQUqI0Xbu4IDM">Routes and Controllers</a></td>
 </tr>
+
+<tr>
+<td>Feb 16th</td>
+<td>=@h9j15m</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/6LKUn8qqSyK3SZoMLQY-lSLiacKlQv-0wl6Mh9hoF15Die8ym0maEmgZNxlPCsFx.RU15jU9S5lvF7iqe">JS Promises</a></td>
+</tr>
