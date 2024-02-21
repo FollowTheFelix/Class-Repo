@@ -4,70 +4,60 @@
 
 ## Overview
 
-This second project will be your first adventure into **building a full-stack 
-application.** You'll be **building a Node/Express/MongoDB app** from the ground up yourself.
+This second project will be your first adventure into **building a full-stack
+application.** You'll be **building a Node/Express/MongoDB app** from the ground up.
 
 This is exciting and by the end of this unit we will have given you the all of the tools needed to build your app.
 
 You get to decide what you want to build - as long as it meets the technical requirements outlined below.
 
-**You will be working individually for this project.** You'll be designing and coding the app yourself. However, you will have access to up to [insert number] fifteen-minute one-on-one sessions with your instructors.
-
-Additionally as part of the project's requirements, you'll be required to take and pass a Project Assessment.
-
 ---
 
 ## Planning & Presentation Requirements
 
-### Planning - Due by ________:
+### Planning - Due by **\_\_\_\_**:
 
 - A **[Trello](https://trello.com/) board** with:
-    
-    ☐ **User Stories**, each moving from left to right in the following 
-      three lists in your board:<br>
-      	- **Ice Box**<br>
-      	- **Current/MVP**<br>
-      	- **Completed**<br>
-      <br>**User Stories** must follow the following template:<br>**_As a \<user role\>, I want \<feature\>, because \<reason\>._**<br>The _reason_ is optional if it's blatantly obvious.
-      <br><br>Prioritize your user stories within the Ice Box with your "wish 
-      list" stories at the bottom.
-      <br><br>Then move the stories that make up the MVP to the Current/MVP list (in the order that you want to implement them) leaving behind the "real" optional/ice box features.
-      <br><br>When all of the completed stories have been moved to the Completed list, move the highest-priority Ice Box story to the Current/MVP list and implement it, etc.
-    
-    ☐ A **Wireframes** list containing wireframes for the app's main pages of functionality, e.g. Landing Page, Posts Index Page, Favorite Posts Page, Add Post Page, etc.
-    
-    ☐ An **ERD** list containing an ERD identifying the attributes of each Data Entity (one for each Model and embedded schema). The ERD also needs to diagram relationships between the Entities (1:1, 1:M or M:M). Here's a [YouTube video to show you how](https://www.youtube.com/watch?v=QpdhBUYk7Kk).
+  ☐ **User Stories**, each moving from left to right in the following
+  three lists in your board:<br> - **Ice Box**<br> - **Current/MVP**<br> - **Completed**<br>
+  <br>**User Stories** must follow the following template:<br>**_As a \<user role\>, I want \<feature\>, because \<reason\>._**<br>The _reason_ is optional if it's blatantly obvious.
+  <br><br>Prioritize your user stories within the Ice Box with your "wish
+  list" stories at the bottom.
+  <br><br>Then move the stories that make up the MVP to the Current/MVP list (in the order that you want to implement them) leaving behind the "real" optional/ice box features.
+  <br><br>When all of the completed stories have been moved to the Completed list, move the highest-priority Ice Box story to the Current/MVP list and implement it, etc.
+  ☐ A **Wireframes** list containing wireframes for the app's main pages of functionality, e.g. Landing Page, Posts Index Page, Favorite Posts Page, Add Post Page, etc.
+  ☐ An **ERD** list containing an ERD identifying the attributes of each Data Entity (one for each Model and embedded schema). The ERD also needs to diagram relationships between the Entities (1:1, 1:M or M:M). Here's a [YouTube video to show you how](https://www.youtube.com/watch?v=QpdhBUYk7Kk).
 
-### Project Presentations - __________:
+### Project Presentations - \***\*\_\_\*\***:
 
 You will have a maximum of 10 minutes to present your project following these guidelines:
 
 1. **Introduce the Project:**
 
-	☐ Intro your project by paraphrasing the README.
-	
+   ☐ Intro your project by paraphrasing the README.
+
 2. **Demonstrate the Project:**
 
-	☐ Launch the deployed app by clicking the link in the README.
-	
-	☐ Log out and back in to demonstrate that OAuth is working.
-	
-	☐ Demonstrate the features of the app, including full-CRUD data operations.
-	
+   ☐ Launch the deployed app by clicking the link in the README.
+
+   ☐ Log out and back in to demonstrate that OAuth is working.
+
+   ☐ Demonstrate the features of the app, including full-CRUD data operations.
+
 3. **Show/discuss your code:**
 
-	☐ Show the "main" Mongoose model.
-	
-	☐ Show your favorite EJS template.
-	
-	☐ Show the controller for the main model.
+   ☐ Show the "main" Mongoose model.
+
+   ☐ Show your favorite EJS template.
+
+   ☐ Show the controller for the main model.
 
 4. **Share the experience:**
 
-	☐ What was your biggest challenge?
-	
-	☐ What are your key learnings/takeaways?
-	
+   ☐ What was your biggest challenge?
+
+   ☐ What are your key learnings/takeaways?
+
 5. **Q & A + Feedback**
 
 ---
@@ -80,7 +70,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ☐ **Use OAuth authentication**.
 
-☐ Implement basic **authorization** that restricts access to features that need a logged in user in order to work (typically CUD data operations) by "protecting" those routes from anonymous users using the `ensureLoggedIn` middleware from the OAuth lesson.  In addition, ensure that editing and deletion of a data resource can only be done by the user that created that data (this is done in the controller - refer to the Guide to User-Centric CRUD).
+☐ Implement basic **authorization** that restricts access to features that need a logged in user in order to work (typically CUD data operations) by "protecting" those routes from anonymous users using the `ensureLoggedIn` middleware from the OAuth lesson. In addition, ensure that editing and deletion of a data resource can only be done by the user that created that data (this is done in the controller - refer to the Guide to User-Centric CRUD).
 
 ☐ Have **full-CRUD data operations** somewhere within the app's features. For example, you can have functionality that **C**reates & **U**pdates a _post_ and satisfy **D**elete functionality by implementing the ability to delete _comments_.
 
@@ -90,7 +80,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ### Optionally, Your App May:
 
-☐ Consume a third-party API.  If you choose to implement this option, it's likely that the data from the API will be a key data resource in your app, therefore it's important to consider how to implement whatever CRUD data operations will apply.  For example, how will data from the API find its way into your database?  Be sure to discuss with an instructor when planning your app's features.
+☐ Consume a third-party API. If you choose to implement this option, it's likely that the data from the API will be a key data resource in your app, therefore it's important to consider how to implement whatever CRUD data operations will apply. For example, how will data from the API find its way into your database? Be sure to discuss with an instructor when planning your app's features.
 
 ☐ Expose its own API where it returns data resources as JSON.
 
@@ -100,18 +90,18 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ☐ **A working full-stack app that meets or exceeds the above technical requirements, built by you, and hosted on Heroku**.
 
-- **A ``README.md`` file** with these sections (here's a [basic template](project-readme-starter.md)):
+- **A `README.md` file** with these sections (here's a [basic template](project-readme-starter.md)):
 
   ☐ **App Title:** Contains a description of what the app does and optional background info.
-  
+
   ☐ **Screenshot(s):** A screenshot of your app's landing page and any other screenshots of interest.
-  
+
   ☐ **Technologies Used**: List of the technologies used.
-    
+
   ☐ **Getting Started**: Include a link to the deployed app and your Trello board with the project's planning.
-  
+
   ☐ **Next Steps**: Planned future enhancements (icebox items).
-  
+
   > Note: Don't underestimate the value of a well crafted `README.md`. The `README.md` introduces your project to prospective employers and forms their first impression of your work!
 
 ☐ **Daily commits (the more the better) dating back to the very beginning of the project**. Commit messages should be in the present tense, e.g., "Style landing page" instead of "Styled landing page". **Do not "start over" with a new repo.**
@@ -130,7 +120,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ## Project Idea Guidance
 
-Lots of the web applications you interact with on a daily basis can provide inspiration for this project as most are full-stack CRUD apps.  That is, they manipulate and display data.
+Lots of the web applications you interact with on a daily basis can provide inspiration for this project as most are full-stack CRUD apps. That is, they manipulate and display data.
 
 #### DO NOT Choose Non-CRUD Applications Such As:
 
@@ -141,7 +131,7 @@ Lots of the web applications you interact with on a daily basis can provide insp
 #### Good Examples
 
 Some of the best apps are apps that track or manage things of **personal interest to you**:
-  
+
 - Music lesson tracking
 - Soccer team tracker
 - Rock climbing planner
@@ -152,7 +142,7 @@ So much of the Internet is CRUD apps!
   - Twitter
   - Instagram
   - Reddit
-- Marketplaces: 
+- Marketplaces:
   - Craigslist
   - Etsy
 - Organizational or Business apps:
@@ -161,9 +151,9 @@ So much of the Internet is CRUD apps!
   - Customer management
   - Payroll/Accounting
 
-Many simple apps can have their functionality enhanced by implementing the ability of users to comment on, and/or like/favorite items. 
+Many simple apps can have their functionality enhanced by implementing the ability of users to comment on, and/or like/favorite items.
 
-Another piece of advice:  If you choose to develop an app that has the concept of a shopping cart (eCommerce app), do not attempt to implement the actual payment functionality.  Plus, here's a hint in regards to the data model: a "cart" is simply an "order" that has yet to be paid - in other words, you would only need an `Order` model vs. both `Order` & `Cart` models.
+Another piece of advice: If you choose to develop an app that has the concept of a shopping cart (eCommerce app), do not attempt to implement the actual payment functionality. Plus, here's a hint in regards to the data model: a "cart" is simply an "order" that has yet to be paid - in other words, you would only need an `Order` model vs. both `Order` & `Cart` models.
 
 #### Actual Recent Student Projects
 
