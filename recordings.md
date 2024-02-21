@@ -79,3 +79,9 @@
 <td>=@h9j15m</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/6LKUn8qqSyK3SZoMLQY-lSLiacKlQv-0wl6Mh9hoF15Die8ym0maEmgZNxlPCsFx.RU15jU9S5lvF7iqe">JS Promises</a></td>
 </tr>
+
+<tr>
+<td>Feb 20th</td>
+<td>wM^@1F^8</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/0l6dO8TxpoflLOSb_rj-O4smdkgAzjIOtLcdKaHaSuGEMwABMP3ocOLojynt4F_4.XMML7YWIQVK_iz6O">MongoDB Atlas / Intro to MongoDB</a></td>
+</tr>
