@@ -85,3 +85,21 @@
 <td>wM^@1F^8</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/0l6dO8TxpoflLOSb_rj-O4smdkgAzjIOtLcdKaHaSuGEMwABMP3ocOLojynt4F_4.XMML7YWIQVK_iz6O">MongoDB Atlas / Intro to MongoDB</a></td>
 </tr>
+
+<tr>
+<td>Feb 21st</td>
+<td> j8XL.!g!</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/431L52xWTrZqupUwh0eEKfAcWhWU_VQ9Ix1Fv40F1sp8dfTUhQ78Q0ahBkaYo7Mz.d2RvyAzycBi6RwpU">Mongoose Embedding</a></td>
+</tr>
+
+<tr>
+<td>Feb 22nd</td>
+<td>K4W%YzCN</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/2wmzXx1jMAHcMGm4KujFmGBhfFKK6wzhSlJLeVrMb-0Ebr4ad3GbRcXi13-Xzek.3AlCHuSRLClbsS63">Mongoose Referencing</a></td>
+</tr>
+
+<tr>
+<td>Feb 23rd</td>
+<td>2IiK^=kW</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/47aSv0IJSblqtgD6F3OzhL4yYwjtqPJy4Zll0FPvM0pxxnRLpalye_ymj7erLkPw.iV0ap3je2-itBIyl">Git / Github workflow</a></td>
+</tr>
