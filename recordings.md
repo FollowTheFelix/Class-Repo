@@ -103,3 +103,9 @@
 <td>2IiK^=kW</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/47aSv0IJSblqtgD6F3OzhL4yYwjtqPJy4Zll0FPvM0pxxnRLpalye_ymj7erLkPw.iV0ap3je2-itBIyl">Git / Github workflow</a></td>
 </tr>
+
+<tr>
+<td>Feb 29th</td>
+<td>FCrD29e&W</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/Cs4ULFCkN9ayJcFeCM4ZIp_ymgK5F3dxfmkeb-2CRehrRRMHD-ID0sOCkk0UkuwS.7iqCj7O30kKyNmN_">Heroku Deployment</a></td>
+</tr>
