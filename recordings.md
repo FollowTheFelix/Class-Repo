@@ -106,6 +106,24 @@
 
 <tr>
 <td>Feb 29th</td>
-<td>FCrD29e&W</td>
+<td>FCrD29e&</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/Cs4ULFCkN9ayJcFeCM4ZIp_ymgK5F3dxfmkeb-2CRehrRRMHD-ID0sOCkk0UkuwS.7iqCj7O30kKyNmN_">Heroku Deployment</a></td>
+</tr>
+
+<tr>
+<td>Mar 4th</td>
+<td>!5K5i^7.</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/0GmDtP9bMWYal08MSPYUOrvBmZQAuVgnCN-TA3MnKyS7bQZWylCBR9YtGrPWIoY_.KZzcb12XWI22QrW6">Intro to Python</a></td>
+</tr>
+
+<tr>
+<td>Mar 5th</td>
+<td>D1P+&8H9</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/LeS-fzPblSTEr0R1pxy1l5Cqp95lSVbILCz0YqWsdwE8Ke7uSyH9T1YASCPQmdT0.h7-Xbz88mSEbvSPP">Python Containers</a></td>
+</tr>
+
+<tr>
+<td>Mar 6th</td>
+<td>7UG2Pc*7</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/zCb1TnSiSr9NF5e2FMpqTgCzMWNkHc__1byAthOf-bHa85NqOEr2D7Q6ujOuAh_c.UYSSMh1bnXz7cACA">Python Functions</a></td>
 </tr>
