@@ -27,3 +27,13 @@
 | [Mongoose Flights Lab Pt1 Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_2/8-mongoose/8.1.2-mongoose-flights-lab-part-1.md) - Mongoose Flights Lab Pt1 |
 | [Mongoose Flights Lab Pt2 Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_2/8-mongoose/8.2.1-mongoose-flights-lab-part-2.md) - Mongoose Flights Lab Pt2 |
 | [Mongoose Flights Lab Pt3 Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_2/8-mongoose/8.4.1-mongoose-flights-lab-part-3.md) - Mongoose Flights Lab Pt3 |
+
+## Unit 3
+
+**Submission Deadline: March 17th, 2024**
+
+| Assignment                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Python Control Flow Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_3/1-python/1.2.1-control-flow-lab.md) - Python Control Flow |
+| [Python Containers Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_3/1-python/1.3.1-containers-lab.md) - Python Containers       |
+| [Carmen Sandiego Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_3/2-sql-databases/2.1.1-sql-lab.md) - Carmen Sandiego (SQL Lab) |
