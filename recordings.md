@@ -127,3 +127,27 @@
 <td>7UG2Pc*7</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/zCb1TnSiSr9NF5e2FMpqTgCzMWNkHc__1byAthOf-bHa85NqOEr2D7Q6ujOuAh_c.UYSSMh1bnXz7cACA">Python Functions</a></td>
 </tr>
+
+<tr>
+<td>Mar 7th</td>
+<td>Wy%5i!rB</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/4VIOj_PWV1iaJ5dPz1iMZpUBKs8xYl6pxTLULXd-wXpxoftB8mc0ybjLlwJ4e6Pe.t9JH0uWgjs09xY6b">Intro to SQL</a></td>
+</tr>
+
+<tr>
+<td>Mar 8th</td>
+<td>9&7eXe6h</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/qdliEgEklc054UYFrOEWUTq4C73fBIGx95dOPJsCRXMq6YFOH6XrruEHSCrLeQy-.uIJtPt4-QH6zdlLw">Intro to Django</a></td>
+</tr>
+
+<tr>
+<td>Mar 11th</td>
+<td>5%Y.x5&q</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/VNCAo6ng_3uPp4L-WM4st-M9XiMYTuyY5uWKxaM4JdgE2E3rLWF0RfZaOKDyL6GM.xCiIPWaeYUivRUjE">Django Urls Views and Templates</a></td>
+</tr>
+
+<tr>
+<td>Mar 12th</td>
+<td>Gnbw$n7D</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/ntktmeG7Gnd2W4eQyaI22cxDdtxueWBJO0XyDoU5tko1_4qhJ7BrMa5qsc-5rURW.Cif8O5fybDobHJ5V">Django Models / Project 3 (5:59:01 video timestamp)</a></td>
+</tr>
