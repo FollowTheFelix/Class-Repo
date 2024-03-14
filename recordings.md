@@ -151,3 +151,15 @@
 <td>Gnbw$n7D</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/ntktmeG7Gnd2W4eQyaI22cxDdtxueWBJO0XyDoU5tko1_4qhJ7BrMa5qsc-5rURW.Cif8O5fybDobHJ5V">Django Models / Project 3 (5:59:01 video timestamp)</a></td>
 </tr>
+
+<tr>
+<td>Mar 13th</td>
+<td>@XtpS#p5</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/b0XMoubqcgq1dI7cdpE2_VWnedj8eeAxCfphrSGkbQb2h6ALQdgkrhJMNU9SL6Xu.g0f_x9r_eTTPv79m">Django Class Based Views</a></td>
+</tr>
+
+<tr>
+<td>Mar 14th</td>
+<td>+Cd1PAx$</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/nH0I1tZnl5FJEETqDnphUQC4WppaXuZHHWb1_0q6keQdThpVL7QHkA1nINYLouNm.Cym76KhNkIZ_pKK8">Many to Many Models</a></td>
+</tr>
