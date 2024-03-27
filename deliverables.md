@@ -37,3 +37,12 @@
 | [Python Control Flow Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_3/1-python/1.2.1-control-flow-lab.md) - Python Control Flow |
 | [Python Containers Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_3/1-python/1.3.1-containers-lab.md) - Python Containers       |
 | [Carmen Sandiego Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_3/2-sql-databases/2.1.1-sql-lab.md) - Carmen Sandiego (SQL Lab) |
+
+## Unit 4
+
+**Submission Deadline: April 17th, 2024**
+
+| Assignment                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [React Dev Skills Lab Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_4/1-react/1.4.1-react-devskills-lab-part-1.md) - React Dev Skills (All Parts)                  |
+| [React Movies Skills Lab Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_4/2-mern-infrastructure/2.3.1-react-movies-lab-part-1.md) - React Movies Skills (All Parts) |
