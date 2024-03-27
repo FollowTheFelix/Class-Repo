@@ -163,3 +163,15 @@
 <td>+Cd1PAx$</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/nH0I1tZnl5FJEETqDnphUQC4WppaXuZHHWb1_0q6keQdThpVL7QHkA1nINYLouNm.Cym76KhNkIZ_pKK8">Many to Many Models</a></td>
 </tr>
+
+<tr>
+<td>Mar 25th</td>
+<td>Hw=7@cUC</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/E8LxHUz6MuIyCsf3qWQCtHTMjBQC3F659MU8mNBI9aTMPEan9rUzcB8PedjgtL42.Abc0gbiCVGsnS0rS">Intro to React</a></td>
+</tr>
+
+<tr>
+<td>Mar 26th</td>
+<td>5B^XAU?N</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/zggdWAOzUVFtvn0u6yNfeWW43YpM8vOeEluH5XBtj_yfavGi-cmZEHr8lEmpgV2F.cFYqQt3iQF0urvmp">React State</a></td>
+</tr>
