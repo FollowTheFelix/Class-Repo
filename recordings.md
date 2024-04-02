@@ -175,3 +175,9 @@
 <td>5B^XAU?N</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/zggdWAOzUVFtvn0u6yNfeWW43YpM8vOeEluH5XBtj_yfavGi-cmZEHr8lEmpgV2F.cFYqQt3iQF0urvmp">React State</a></td>
 </tr>
+
+<tr>
+<td>Mar 28th</td>
+<td>DZMLV8F+</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/7ZoetspSzYPWdpRCwItD3gshUDLKfqYFbuBV1rGzmz6TLsD9Dzua4MIJmnf2R4Pq.GAoUKIkOsEmC-Zkk">Intro to SPAs and MERN Stack</a></td>
+</tr>
