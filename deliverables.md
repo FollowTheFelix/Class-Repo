@@ -46,3 +46,4 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [React Dev Skills Lab Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_4/1-react/1.4.1-react-devskills-lab-part-1.md) - React Dev Skills (All Parts)                  |
 | [React Movies Skills Lab Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_4/2-mern-infrastructure/2.3.1-react-movies-lab-part-1.md) - React Movies Skills (All Parts) |
+| [MERN-Stack Quick Notes Repo](https://github.com/general-assembly-sei/seb-1-22/blob/main/Unit_4/2-mern-infrastructure/2.8.1-mern-quick-notes-lab.md) - MERN-Stack Quick Notes              |
