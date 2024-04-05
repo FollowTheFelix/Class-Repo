@@ -181,3 +181,21 @@
 <td>DZMLV8F+</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/7ZoetspSzYPWdpRCwItD3gshUDLKfqYFbuBV1rGzmz6TLsD9Dzua4MIJmnf2R4Pq.GAoUKIkOsEmC-Zkk">Intro to SPAs and MERN Stack</a></td>
 </tr>
+
+<tr>
+<td>Apr 2nd</td>
+<td>$ElPNr3d</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/zSmMUVU5poHV6bIdtBkIcuNSkr8SBXeCUmXLta-MkpHdQjNwvUSv7NyKUP2CBOMU.yBLvd2TyPmr92ibx">MERN Infrastructure Part 2</a></td>
+</tr>
+
+<tr>
+<td>Apr 3rd</td>
+<td>Q62Dq#G!</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/3npQO9VgoBWjH8Q0pjViQrPi_Lp-J1PQxORYTkYM8_3XNgJAIwGq6HtDUXt37Ms0.BvbOw5OuKYhDgw7K">MERN Infrastructure Part 4</a></td>
+</tr>
+
+<tr>
+<td>Apr 4th</td>
+<td>^7Tfb&*f</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/CFHTIsBctuciHSRF8AshcIeDL3yLjCas7kr8zfGs8FwK46nT1u4zy5u71_WWd16E.QOaU1J5TFSbWH_3K">MERN Infrastructure Part 6</a></td>
+</tr>
