@@ -199,3 +199,9 @@
 <td>^7Tfb&*f</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/CFHTIsBctuciHSRF8AshcIeDL3yLjCas7kr8zfGs8FwK46nT1u4zy5u71_WWd16E.QOaU1J5TFSbWH_3K">MERN Infrastructure Part 6</a></td>
 </tr>
+
+<tr>
+<td>Apr 5th</td>
+<td>d^Gh#^42</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/rsXhS0jvuVLDU62rRyUj-4jOD_1egc0kkSoctEcydiWpkXOng9bnbXIxf6Kd3wv3.7YFEDPOrx_cEISD0">UseEffect and UseRef</a></td>
+</tr>
