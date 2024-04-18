@@ -205,3 +205,9 @@
 <td>d^Gh#^42</td>
 <td><a href="https://generalassembly.zoom.us/rec/share/rsXhS0jvuVLDU62rRyUj-4jOD_1egc0kkSoctEcydiWpkXOng9bnbXIxf6Kd3wv3.7YFEDPOrx_cEISD0">UseEffect and UseRef</a></td>
 </tr>
+<tr>
+
+<td>Apr 17th</td>
+<td>#WS3NiBx</td>
+<td><a href="https://generalassembly.zoom.us/rec/share/ljVMU34hJks1PAquOHWmIGg756tMJcLgYVBPBGAIFXs2h6_ILBuC5votAfrnOE3i.-LmJF0h7lnjb3yQD">Mock Interview / Big O Notation</a></td>
+</tr>
